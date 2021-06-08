@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "gratitudejournalbb28b67c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
